@@ -1,0 +1,14 @@
+Whats Working
+Sierra:
++ Audio;
++ Video;
++ Ethernet;
++ Wi-Fi;
++ Bluetooth.
+
+Mojave:
++ Audio;
+- Video(Detect but a lot of freeze);
++ Ethernet;
++ Wi-Fi;
++ Bluetooth.
