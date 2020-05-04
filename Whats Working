@@ -1,6 +1,7 @@
 Whats Working
 Sierra:
 + Audio;
++-Very low MIC (layout 11)
 + Video;
 + Ethernet;
 + Wi-Fi;
